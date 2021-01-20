@@ -4,11 +4,14 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build:pre": "vue-cli-service build --mode prerelease",
+    "build:test": "vue-cli-service build --mode test",
+    "build:prod": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "vant": "^3.0.4",
     "vue": "^3.0.0",
