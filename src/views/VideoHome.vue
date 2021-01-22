@@ -102,6 +102,7 @@ export default {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  background-color: #fff;
   .nav{
     position: fixed;
     top: 15px;
@@ -434,6 +435,7 @@ export default {
         justify-content: center;
         > span {
             margin-top: 4px;
+            font-size: 14px;
             position: relative;
             color: #565958;
           }
@@ -478,6 +480,7 @@ export default {
     color: #ccc;
     text-align: center;
     letter-spacing: 1px;
+    font-size: 14px;
   }
 }
 
