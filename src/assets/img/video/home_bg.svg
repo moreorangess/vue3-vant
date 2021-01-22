@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="314" viewBox="0 0 375 314">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        opacity: 0.5;
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        opacity: 0.1;
+      }
+
+      .cls-5, .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-6 {
+        opacity: 0.2;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-8 {
+        opacity: 0.05;
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        filter: url(#矩形_6598);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" x2="0.015" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6e2e"/>
+      <stop offset="1" stop-color="#ffa759"/>
+    </linearGradient>
+    <filter id="矩形_6598" x="-9" y="-43" width="393" height="365" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#262626" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="矩形_6575" data-name="矩形 6575" class="cls-1" width="375" height="314"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1" x2="0.216" y2="0.928" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f73"/>
+      <stop offset="1" stop-color="#ffa759"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.087" y1="0.013" x2="0.416" y2="0.98" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="1" x2="0.009" y2="0.887" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9100"/>
+      <stop offset="1" stop-color="#ffb74b"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <rect id="矩形_6598-2" data-name="矩形 6598" class="cls-2" width="375" height="347" rx="4"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_688" data-name="蒙版组 688" class="cls-3">
+    <g id="组_4805" data-name="组 4805" transform="translate(-0.355 -37.3)">
+      <g id="组_4804" data-name="组 4804">
+        <path id="路径_6263" data-name="路径 6263" class="cls-4" d="M0,276.661s64.84,30.907,142.968,42.125S374.5,312.918,374.5,312.918L374.489,0H0Z" transform="translate(1.393 22.443)"/>
+        <path id="路径_6267" data-name="路径 6267" class="cls-5" d="M0,327.145s153.426,16.095,219.732-58.581S113.593,0,113.593,0L0,.547Z" transform="translate(0.437 18.009)"/>
+        <path id="路径_6266" data-name="路径 6266" class="cls-6" d="M0,330.721s60.732,8.526,114.192-32.083S113.779,0,113.779,0L.186.543Z" transform="translate(0.251 12.104)"/>
+        <path id="路径_6264" data-name="路径 6264" class="cls-7" d="M.008,331.075s68.985-32.01,190.551,3.406,185.861,0,185.861,0L375.8,0H0Z"/>
+      </g>
+      <g id="蒙版组_687" data-name="蒙版组 687" class="cls-8" transform="translate(0.355 0.3)">
+        <path id="减去_49" data-name="减去 49" class="cls-1" d="M73.589,0A75.965,75.965,0,0,0,44.945,5.535a74.732,74.732,0,0,0-12.5,6.494,73.513,73.513,0,0,0-10.891,8.6,71.689,71.689,0,0,0-8.986,10.424A69.557,69.557,0,0,0,5.783,43.017a67.878,67.878,0,0,0,0,54.832,69.533,69.533,0,0,0,6.785,11.964,71.635,71.635,0,0,0,8.986,10.423,73.5,73.5,0,0,0,10.891,8.6,74.76,74.76,0,0,0,12.5,6.495,76.893,76.893,0,0,0,57.289,0,74.736,74.736,0,0,0,12.5-6.495,73.51,73.51,0,0,0,10.891-8.6,71.659,71.659,0,0,0,8.986-10.423A69.576,69.576,0,0,0,141.4,97.85a67.881,67.881,0,0,0,0-54.832,69.582,69.582,0,0,0-6.785-11.963,71.728,71.728,0,0,0-8.986-10.424,73.507,73.507,0,0,0-10.891-8.6,74.718,74.718,0,0,0-12.5-6.494A75.963,75.963,0,0,0,73.589,0Zm0,112.875c-24.451,0-44.343-19.039-44.343-42.442s19.892-42.44,44.343-42.44,44.341,19.038,44.341,42.44S98.039,112.875,73.589,112.875Z" transform="translate(-58.702 -44.703)"/>
+        <path id="减去_50" data-name="减去 50" class="cls-1" d="M73.589,0A75.965,75.965,0,0,0,44.945,5.535a74.732,74.732,0,0,0-12.5,6.494,73.513,73.513,0,0,0-10.891,8.6,71.689,71.689,0,0,0-8.986,10.424A69.557,69.557,0,0,0,5.783,43.017a67.878,67.878,0,0,0,0,54.832,69.533,69.533,0,0,0,6.785,11.964,71.635,71.635,0,0,0,8.986,10.423,73.5,73.5,0,0,0,10.891,8.6,74.76,74.76,0,0,0,12.5,6.495,76.893,76.893,0,0,0,57.289,0,74.736,74.736,0,0,0,12.5-6.495,73.51,73.51,0,0,0,10.891-8.6,71.659,71.659,0,0,0,8.986-10.423A69.576,69.576,0,0,0,141.4,97.85a67.881,67.881,0,0,0,0-54.832,69.582,69.582,0,0,0-6.785-11.963,71.728,71.728,0,0,0-8.986-10.424,73.507,73.507,0,0,0-10.891-8.6,74.718,74.718,0,0,0-12.5-6.494A75.963,75.963,0,0,0,73.589,0Zm0,112.875c-24.451,0-44.343-19.039-44.343-42.442s19.892-42.44,44.343-42.44,44.341,19.038,44.341,42.44S98.039,112.875,73.589,112.875Z" transform="translate(301.298 228.297)"/>
+      </g>
+    </g>
+  </g>
+</svg>

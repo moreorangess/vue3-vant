@@ -1,0 +1,88 @@
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  margin-right: 1px;
+}
+
+/* 这是针对缺省样式 (必须的) */
+::-webkit-scrollbar-track {
+  background-color: #e0e0e0;
+  border-radius: 8px;
+}
+
+/* 滚动条的滑轨背景颜色 */
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+/* 滑块颜色 */
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+/* 滑轨两头的监听按钮颜色 */
+::-webkit-scrollbar-corner {
+  background-color: black;
+}
+
+/* 横向滚动条和纵向滚动条相交处尖角的颜色 */
+html {
+  /* IE滚动条 */
+  scrollbar-arrow-color: #fff;
+  /**/
+  /*三角箭头的颜色*/
+  scrollbar-face-color: #e0e0e0;
+  /**/
+  /*立体滚动条的颜色*/
+  scrollbar-highlight-color: #fff;
+  /**/
+  /*滚动条空白部分的颜色*/
+  scrollbar-shadow-color: #fff;
+  /**/
+  /*立体滚动条阴影的颜色*/
+  scrollbar-darkshadow-color: #fff;
+  /**/
+  /*立体滚动条强阴影的颜色*/
+  scrollbar-track-color: #fff;
+  /**/
+  /*立体滚动条背景颜色*/
+  scrollbar-base-color: #fff;
+  min-height: 100vh;
+}
+
+#app {
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+html,body {
+  min-width: 100%;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+
+pre {
+  white-space: normal;
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "\5FAE\8F6F\96C5\9ED1", Arial, sans-serif;
+}
+
+*:focus {
+  outline: none;
+}
+
+[v-cloak] {
+  display: none !important;
+}

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #262626;
+        stroke: #f1f1f1;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #ffa759;
+      }
+
+      .cls-4 {
+        fill: #595959;
+      }
+
+      .cls-5 {
+        opacity: 0.6;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="组_4853" data-name="组 4853" transform="translate(-237 -506)">
+    <g id="组_4828" data-name="组 4828" transform="translate(238 507)">
+      <g id="组_4826" data-name="组 4826" class="cls-1" transform="translate(0)">
+        <g id="组_4825" data-name="组 4825">
+          <g id="组_4824" data-name="组 4824">
+            <g id="组_4823" data-name="组 4823">
+              <g id="矩形_6605" data-name="矩形 6605" class="cls-2" transform="translate(0)">
+                <rect class="cls-6" width="24" height="24"/>
+                <rect class="cls-7" x="-0.5" y="-0.5" width="25" height="25"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_4827" data-name="组 4827" transform="translate(2.062 0.667)">
+        <path id="路径_6279" data-name="路径 6279" class="cls-3" d="M1040.46,3001.885h-11.738a.649.649,0,0,1,0-1.3h11.738a.649.649,0,0,1,0,1.3Z" transform="translate(-1024.153 -2992.042)"/>
+        <path id="路径_6282" data-name="路径 6282" class="cls-4" d="M1040.315,3011.292h-14.543a2.667,2.667,0,0,1-2.667-2.667V2993a2.667,2.667,0,0,1,2.667-2.667h1.755a.649.649,0,1,1,0,1.3h-1.791a1.334,1.334,0,0,0-1.333,1.333v15.695a1.334,1.334,0,0,0,1.333,1.333h14.614a1.334,1.334,0,0,0,1.333-1.333v-15.695a1.334,1.334,0,0,0-1.333-1.333h-2a.649.649,0,1,1,0-1.3h1.962a2.667,2.667,0,0,1,2.667,2.667v15.624A2.667,2.667,0,0,1,1040.315,3011.292Z" transform="translate(-1023.105 -2988.625)"/>
+        <path id="路径_6281" data-name="路径 6281" class="cls-4" d="M1038.822,2992.486H1031.3a2.016,2.016,0,0,1-2.016-2.016v-.684a2.016,2.016,0,0,1,2.016-2.016h7.519a2.016,2.016,0,0,1,2.017,2.016v.684A2.016,2.016,0,0,1,1038.822,2992.486Zm-7.519-3.418a.718.718,0,0,0-.718.718v.684a.718.718,0,0,0,.718.718h7.519a.718.718,0,0,0,.719-.718v-.684a.718.718,0,0,0-.719-.718Z" transform="translate(-1025.166 -2987.77)"/>
+        <rect id="矩形_6656" data-name="矩形 6656" class="cls-5" width="13" height="3" rx="1" transform="translate(3.938 12.333)"/>
+      </g>
+    </g>
+  </g>
+</svg>
